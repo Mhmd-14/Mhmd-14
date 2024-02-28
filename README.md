@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mhmd-14
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Entry Level Data Analyst | Proficient in Python
 - 💞️ I’m looking to collaborate on coding and solutions
 - 📫 How to reach me ...
 
